@@ -7,7 +7,7 @@ export default function home() {
 
     h1.classList.add('align-center');
     h1.innerText = "The Perfect Restaurant";
-    image.src = '../src/food.jpg';
+    image.src = '/food.jpg';
     image.classList.add('food-image');
     paragraph.classList.add('align-center','f-14');
     paragraph.innerText = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aspernatur culpa dolor doloremque doloribus eaque exercitationem fugit illum ipsam iste minus numquam possimus quaerat quas quis quos repudiandae temporibus, vero.';
